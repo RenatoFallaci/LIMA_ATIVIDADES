@@ -1,0 +1,42 @@
+.ee{position:relative;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+
+.aa{
+    position: absolute;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: red;
+    top:500px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    
+}
+
+
+.bb{
+    position: absolute;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(15, 0, 131);
+    width: 200px;
+    height: 200px;
+    margin-left: 1300px;
+    top: -0px;
+}
+
+
+.dd{
+    position: absolute;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(223, 209, 5);
+    top:500px;
+    width: 200px;
+    height: 200px;
+     margin-left: 1300px;
+    
+}
+

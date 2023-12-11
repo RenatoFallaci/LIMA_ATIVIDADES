@@ -1,0 +1,63 @@
+.cabecalho{
+    padding: 20px 80px 20px 80px;
+    border:solid black;
+    color:rgb(14, 0, 0);
+    background-color:rgb(244, 0, 0);
+    text-align: center;
+}
+    
+.menu{ padding: 35px 20px 10px 10px;
+left: -0px;
+
+
+    height: 425px;
+    width:130px;
+    border:solid rgb(0, 0, 0);
+    color:rgb(0, 0, 0);
+    background-color: rgb(85, 0, 107);
+    text-align: center;
+} 
+.vertical-menu{
+    width:200px;
+    text-align: center;
+}
+
+.vertical-menu a{
+    background-color: rgb(204, 5, 18);
+    color:black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover{
+    background-color: rgb(142, 159, 185);
+}
+.vertical-menu a :active{
+    background-color: green;
+color:white }
+   
+    .conteudo{ padding:130px 930px 120px 100px;
+        float:right;
+            border:solid rgb(0, 0, 0);
+            color:rgb(0, 0, 0);
+            background-color: rgb(0, 25, 107);
+            text-align: center;
+            margin-top:-225px;
+}
+
+h1.rodape{
+    padding: 20px 80px 20px 80px;
+    border: solid rgb(0, 0, 0);
+    color:rgb(10, 0, 0);
+    background-color: rgb(11, 95, 0);
+    text-align: center;
+    position:relative;
+    bottom:-20px;
+    }
+
+        h3.centro{float: inline-start;
+            
+                  margin-left: 50px;
+                  height: 250;
+        }

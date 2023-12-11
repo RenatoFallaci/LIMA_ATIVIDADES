@@ -1,0 +1,110 @@
+.dropbtn{
+    background-color: purple;
+    color:beige;
+    padding: 16px;
+    font-size: px;
+    border: none;
+}
+.dropdown{
+    position: relative;
+    top:300px;
+    left:180px;
+    display: inline-block;
+    padding: 30px 50px 70px 15px;
+    
+ }
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(163, 0, 0);
+    min-width: 150px;
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+}
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display:block;
+}
+.dropdown-content a:hover{
+    background-color: rgb(160, 160, 160);
+}
+.dropdown:hover .dropbtn{
+    display: block;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+/*menu 11 */
+.vertical-menu{
+    position: absolute;
+   
+    text-align: center;
+    padding: 30px 50px 70px 15px;
+    top: 150px;
+    left:180px ;
+   
+    
+}
+
+.vertical-menu a{
+    background-color: rgb(204, 5, 18);
+    color:black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    padding: 35px 20px 10px 10px;
+    left: -0px;
+    
+}
+
+.vertical-menu a:hover{
+    background-color: rgb(142, 159, 185);
+}
+.vertical-menu a{
+    padding: -50px -1000cm;
+    background-color: rgb(0, 51, 128);
+color:white
+}
+
+
+
+.caixa1{
+    border: 5px solid green;
+    width: 500px;
+    height: 700px;
+}
+
+.caixa2{
+    position: relative;
+    left:1000px;
+    top:-1300px;
+    border:5px solid red;
+width: 500px;
+height: 700px;
+}
+
+  img{
+    position: relative;
+    top:-100px;
+    height: 400px;
+    width:700px ;
+margin-top: 100px;
+  }
+
+.ii{
+    position: relative;
+   left:1101px;
+   top: -300px;
+
+}
+
+.oo{
+ position: relative;
+ margin-left: 311px;
+ top:-335px;
+
+}

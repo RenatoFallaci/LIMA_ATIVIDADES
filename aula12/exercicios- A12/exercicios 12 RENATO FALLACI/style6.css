@@ -1,0 +1,16 @@
+.botão a {background-color: rgb(135, 139, 159);
+    border-radius: 15px;
+    color:rgb(255, 252, 252);
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    width: 60px;
+    height: 35px;
+
+}
+    
+    
+    .botão :hover{
+        background-color: rgb(73, 0, 130);
+    color:white
+    }

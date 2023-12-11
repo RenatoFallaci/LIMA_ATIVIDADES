@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    color: white;
+    background-color: rgb(4, 0, 8);
+    text-align: center;
+    flex-direction: column;
+  align-items: center;
+}
+
+.qq{
+display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    font-size: 30px;
+    color: rgb(208, 0, 0);
+}
+
+.aaa{
+  
+    width: 275px;
+    height: 350px;
+}
+
+
+img:hover{border:solid 3px rgb(255, 255, 255);
+
+}
+
+img {
+    width: 275px;
+    height: 350px;
+}
+.as{
+   justify-content: center;
+   align-items: center;
+    font-size: 30px;
+    right: 135px;
+    color: red;
+}
+
+
+
+
+

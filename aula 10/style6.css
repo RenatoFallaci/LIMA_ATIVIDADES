@@ -1,0 +1,31 @@
+p {
+    font-size: 12pt;
+}
+p::first-line{ 
+    color:rgb(252, 6, 6);
+    font-variant: small-caps;
+}
+
+
+
+/*outro*/
+
+h1::before{content:url(imagens/smille.gif);}
+h1::after {content:url(imagens/smille.gif);}
+
+
+
+/*outro3*/
+p::selection{color:rgb(113, 11, 11); background-color: rgb(0, 10, 194);} 
+
+
+
+
+/*4*/
+
+    div{
+        background-color:#720909;
+        background-repeat: no repeat;
+        background-position: right top;
+    }
+    

@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color: rgb(120, 32, 192);
+    text-align: center;
+   margin-left: 70px;
+}
+
+img{
+    margin-left: -1000px;
+    width: 500px;
+    height:400px ;
+}
+
+.ww{
+    padding-bottom: 200px;
+    border:double 15px rgb(255, 255, 255);
+    color: white;
+    top: -350px;
+    height: -200px;
+    width: 350px;
+    margin-left: 700px;
+   margin-top: -350px;
+    
+}

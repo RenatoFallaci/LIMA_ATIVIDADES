@@ -1,0 +1,16 @@
+<Html>
+    <head>
+     <title> Exe7 </title>
+    </head>
+    <body>
+    <center>
+    <table>
+    <caption> Cardapio </caption>
+     <tr><!--primeira linha-->
+     <th></th>
+     <td><p></p><a href="cafe 1.html"><img src="imagens/cafe.Jpg" height="200"width="200"><br> mistura de casa </td></a>
+     <td> <p></p><a href="CAFE 2.html"> <img src="imagens/cafee.jpg" height="200" width="200"><br> café árabico </td></a>
+     <td><p></p><a href="cafe 3.html"> <img src="imagens/cappuccino.Jpg" height="200" width="200"><br> cappuccino </td></a>
+     <td> <p></p><a href="cafe 4.html"> < <img src="imagens/cha.jfif" height="200" width="200"><br> cha cai </td></a>
+     </tr>
+   <th></th>

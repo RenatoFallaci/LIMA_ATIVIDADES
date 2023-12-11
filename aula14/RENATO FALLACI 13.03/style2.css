@@ -1,0 +1,29 @@
+body{
+    margin: 10px;
+    background-color: rgb(122, 0, 0);
+    color: white;
+    border: solid white 5px;
+}
+
+img{
+    width: 500px;
+    height:400px ;
+}
+
+.ww{
+    padding: 100px;
+    border:double 15px rgb(255, 255, 255);
+    color: white;
+    height: 100px;
+    width: 300px;
+    margin-bottom: 500px;
+}
+.imgtxt{
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;    
+}
